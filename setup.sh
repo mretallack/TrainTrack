@@ -1,7 +1,7 @@
 
-ANDROID_HOME=/home/usr/local/sdk-tools-linux-3859397/
+ANDROID_HOME=/home/markretallack/buildhome/android/sdk-tools-linux-3859397
 
-JAVA_HOME=/home/usr/local/jdk1.8.0_73/
+JAVA_HOME=/home/markretallack/buildhome/java/jdk1.8.0_151/
 
 
 
