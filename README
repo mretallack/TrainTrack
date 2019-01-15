@@ -1,0 +1,26 @@
+
+To Compile:
+
+Type :
+
+./setup.sh
+
+./gradlew assembleRelease
+
+
+
+
+TODO:
+
+
+1. stop/start service on pause
+1. provide some sort of last update time
+
+
+
+To test:
+
+
+ ./adb shell am broadcast -a android.intent.action.BOOT_COMPLETED -c android.intent.category.HOME -n uk.org.retallack/.MyBroadcastReceiver
+ 
+ 

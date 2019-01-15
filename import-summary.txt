@@ -1,0 +1,109 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .cvsignore
+* .idea/
+* .idea/TrainTrack.iml
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* AndroidManifest.xml
+* CVS/
+* CVS/BaseRevisions/
+* CVS/BaseRevisions/.#local.properties.1.2
+* CVS/Entries
+* CVS/Repository
+* CVS/Root
+* README
+* ant.properties
+* build.xml
+* proguard-project.txt
+* res/
+* res/CVS/
+* res/CVS/Entries
+* res/CVS/Repository
+* res/CVS/Root
+* res/drawable-hdpi/
+* res/drawable-hdpi/CVS/
+* res/drawable-hdpi/CVS/Entries
+* res/drawable-hdpi/CVS/Repository
+* res/drawable-hdpi/CVS/Root
+* res/drawable-hdpi/down.jpg
+* res/drawable-hdpi/ic_launcher.png
+* res/drawable-ldpi/
+* res/drawable-ldpi/CVS/
+* res/drawable-ldpi/CVS/Entries
+* res/drawable-ldpi/CVS/Repository
+* res/drawable-ldpi/CVS/Root
+* res/drawable-ldpi/ic_launcher.png
+* res/drawable-mdpi/
+* res/drawable-mdpi/CVS/
+* res/drawable-mdpi/CVS/Entries
+* res/drawable-mdpi/CVS/Repository
+* res/drawable-mdpi/CVS/Root
+* res/drawable-mdpi/ic_launcher.png
+* res/layout/
+* res/layout/CVS/
+* res/layout/CVS/Entries
+* res/layout/CVS/Repository
+* res/layout/CVS/Root
+* res/layout/main.xml
+* res/raw/
+* res/raw/CVS/
+* res/raw/CVS/Entries
+* res/raw/CVS/Repository
+* res/raw/CVS/Root
+* res/raw/train.mp3
+* res/values/
+* res/values/CVS/
+* res/values/CVS/Entries
+* res/values/CVS/Repository
+* res/values/CVS/Root
+* res/values/strings.xml
+* setup.sh
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* libs/org.apache.http.legacy.jar => app/libs/org.apache.http.legacy.jar
+* src/ => app/src/main/java/
+* src/CVS/Entries => app/src/main/resources/CVS/Entries
+* src/CVS/Repository => app/src/main/resources/CVS/Repository
+* src/CVS/Root => app/src/main/resources/CVS/Root
+* src/uk/CVS/Entries => app/src/main/resources/uk/CVS/Entries
+* src/uk/CVS/Repository => app/src/main/resources/uk/CVS/Repository
+* src/uk/CVS/Root => app/src/main/resources/uk/CVS/Root
+* src/uk/org/CVS/Entries => app/src/main/resources/uk/org/CVS/Entries
+* src/uk/org/CVS/Repository => app/src/main/resources/uk/org/CVS/Repository
+* src/uk/org/CVS/Root => app/src/main/resources/uk/org/CVS/Root
+* src/uk/org/retallack/CVS/Entries => app/src/main/resources/uk/org/retallack/CVS/Entries
+* src/uk/org/retallack/CVS/Repository => app/src/main/resources/uk/org/retallack/CVS/Repository
+* src/uk/org/retallack/CVS/Root => app/src/main/resources/uk/org/retallack/CVS/Root
+* /home/usr/local/android-sdk_r24.2-linux/platforms/android-22/android.jar => app/libs/android.jar
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
